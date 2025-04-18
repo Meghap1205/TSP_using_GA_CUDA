@@ -1,2 +1,2 @@
 # TSP_using_GA_CUDA
-![Image Description](./assets/output.jpg)
+![Image Description](./tsp_solution.png)
